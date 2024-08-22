@@ -1,6 +1,6 @@
 # Machine Learning : Supervised and Unsupervised Learning
 
-## Foundamentals of Machine Learning
+## Fundamentals of Machine Learning
 
 ## Theoretical Machine Learning
 We will cover the machine learning methods and models which are used to adress the ml problems like repression, classification and clustering etc tasks and also study the properities of these methods and models and have a proper understanding of when and where and for which problem we should use a specific method or model.
