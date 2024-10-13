@@ -8,3 +8,5 @@
 ## AI-[0x] Fundamental, Theoretical and Practical - Deep Learning
 
 ## AI-[0x]
+
+### PCA
